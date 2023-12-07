@@ -1,0 +1,220 @@
+.photos{
+    width: 32px;
+    height: 32px;
+    gap: 8px;
+}
+.first-line{
+    display: flex;
+    padding: 16px;
+    gap: 24px;
+}
+.search1{
+    display: flex;
+    padding: 8px 70px;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid #9E9E9E;;
+}
+.search{
+    color: #9E9E9E;
+    font-size: 12px;
+    font-weight: 500;
+}
+.searchicon{
+    width: 16px;
+    height: 16px;
+}
+.little1{
+    width: 8px;
+    height: 8px;
+}
+.ten{
+    display: flex;
+    padding: 8px 9px;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    background-color: #E0E0E0;
+}
+.addcostumer{
+    display: flex;
+    padding: 8px 2px;
+    justify-content: center;
+    align-items: center;
+    gap: 553px;
+    border-radius: 8px;
+    background-color: #624DE3;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+}
+.process{
+    display: flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 22px;
+    background: #FEF2E5;
+    color: #CD6200;
+    font-size: 12px;
+    font-weight: 500;
+}
+.delivered{
+    display: flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #1F9254;
+    background-color: #EBF9F1;
+    border-radius: 22px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.cenceled{
+    display: flex;
+    padding: 8px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 22px;
+    background: #FBE7E8;
+    color: #A30D11;
+    font-size: 12px;
+    font-weight: 500;
+}
+.sort{
+    width: 16px;
+    height: 16px;
+}
+.lasticons{
+    width: 24px;
+    height: 24px;
+}
+
+.line-1{
+    display: flex;
+    padding: 16px;
+    flex-direction: row;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+}
+.line-2{
+    display: flex;
+    padding: 16px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background: #F7F6FE;
+}
+.line-3{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background-color: #FFF;
+}
+.line-4{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    background: #F7F6FE;
+}
+.line-5{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background-color: #FFF;
+}
+.line-6{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    background: #F7F6FE;
+}
+.line-7{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background-color: #FFF;
+}
+.line-8{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    background: #F7F6FE;
+}
+.line-9{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background-color: #FFF;
+}
+.line-10{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    background: #F7F6FE;
+}
+.line-11{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    background-color: #FFF;
+}
+.lastline{
+    display: flex;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    align-self: stretch;
+    background: #FFF;
+}
+.previus{
+    color: #9E9E9E;
+    font-size: 12px;
+    font-weight: 500;
+}
+.one{
+    display: flex;
+    padding: 8px 9px;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    background: #624DE3;
+}
+.twothree{
+    display: flex;
+    padding: 8px 9px;
+    align-items: center;
+    gap: 4px;
+    border-radius: 8px;
+    background: #E0E0E0;
+}
